@@ -1,0 +1,3 @@
+[submodule "NGSharedFramework"]
+	path = NGSharedFramework
+	url = git@github.com:brbulic/NGSharedFramework.git
